@@ -13,3 +13,4 @@ As bibliotecas utilizadas são: numpy, pandas, scipy e matplotlib.
 Este projeto pode ser útil em estudos de biomecânica, validação de modelos de movimento humano, ou aplicações com sensores inerciais embarcados.
 
 Autora: Maria Luisa Saraiva   
+Licença: MIT
